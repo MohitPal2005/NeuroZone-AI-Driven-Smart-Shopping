@@ -5,6 +5,7 @@ It integrates seamlessly with a live backend to support features like AI-based p
 
 
 🔗 **Live Website:** https://neurozone-ai-driven-smart-ecommerce.vercel.app/ 
+
 🔗 **Live Backend:** https://mohitpal20.pythonanywhere.com  
 
 ---
