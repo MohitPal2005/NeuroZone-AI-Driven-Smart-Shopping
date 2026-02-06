@@ -3,6 +3,7 @@
 NeuroZone is a modern, AI-powered e-commerce frontend application built with **React.js**, designed to deliver a smart, interactive, and immersive shopping experience.  
 It integrates seamlessly with a live backend to support features like AI-based product search, virtual try-on, dynamic pricing, and chatbot assistance.
 
+🔗 **Live Backend:** https://neurozone-ai-driven-smart-ecommerce.vercel.app/ 
 🔗 **Live Backend:** https://mohitpal20.pythonanywhere.com  
 🔗 **Frontend (Vercel):**
 
